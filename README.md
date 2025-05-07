@@ -1,6 +1,7 @@
 ## Hi there 👋
 Don't look at me, it's just a test file.
 
+TEST
 NO TESTS
 
 <!--
