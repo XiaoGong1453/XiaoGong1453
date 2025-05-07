@@ -2,6 +2,7 @@
 Don't look at me, it's just a test file.
 
 TEST
+NO TESTS
 
 <!--
 **XiaoGong1453/XiaoGong1453** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
